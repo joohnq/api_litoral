@@ -110,5 +110,6 @@ const citiesData = {
 };
 
 export default function handler(req: any, res: any) {
+  res.setHeader("Access-Control-Allow-Origin", "*"); // Adicione o cabeçalho CORS
   res.status(200).json(citiesData);
 }
