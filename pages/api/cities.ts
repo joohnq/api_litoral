@@ -3,9 +3,9 @@ const citiesData = {
     {
       name: "Rio de Janeiro",
       images: [
-        "https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F9%2F98%2FCidade_Maravilhosa.jpg%2F1200px-Cidade_Maravilhosa.jpg&tbnid=j57iYGMGqn2lhM&vet=12ahUKEwjo67aA8bH_AhWKNbkGHRJlDtEQMygAegUIARDeAQ..i&imgrefurl=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FRio_de_Janeiro&docid=bXOtYyNieVabJM&w=1200&h=641&q=rio%20de%20janeiro&ved=2ahUKEwjo67aA8bH_AhWKNbkGHRJlDtEQMygAegUIARDeAQ",
-        "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.melhoresdestinos.com.br%2Fwp-content%2Fuploads%2F2019%2F08%2Frio-de-janeiro-capa2019-01.jpg&tbnid=SdseD1cSfr9_eM&vet=12ahUKEwjo67aA8bH_AhWKNbkGHRJlDtEQMygBegUIARDgAQ..i&imgrefurl=https%3A%2F%2Fwww.melhoresdestinos.com.br%2Fo-que-fazer-no-rio-de-janeiro.html&docid=i9puac04oLqJMM&w=1640&h=860&itg=1&q=rio%20de%20janeiro&ved=2ahUKEwjo67aA8bH_AhWKNbkGHRJlDtEQMygBegUIARDgAQ",
-        "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.mnstatic.com%2F08%2F7d%2F087dfd415e06b0651f4528fea6642818.jpg&tbnid=MLORMJLVEuAgtM&vet=12ahUKEwjo67aA8bH_AhWKNbkGHRJlDtEQMygEegUIARDmAQ..i&imgrefurl=https%3A%2F%2Fwww.minube.com.br%2Fsitio-preferido%2Frio-de-janeiro-a151&docid=xR41ftcjkyq1aM&w=1024&h=768&q=rio%20de%20janeiro&ved=2ahUKEwjo67aA8bH_AhWKNbkGHRJlDtEQMygEegUIARDmAQ",
+        "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/08/rio-de-janeiro-capa2019-01.jpg",
+        "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/08/rio-de-janeiro-capa2019-01.jpg",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvP6_l2JPO43C2MZwTHmCJpb43b-fXFYwTXwUArnt8WvUwKzFPcUnYC9bsE7m0wvKedw&usqp=CAU",
       ],
       turism: [
         {
@@ -56,9 +56,9 @@ const citiesData = {
     {
       name: "São Paulo",
       images: [
-        "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.visitbrasil.com%2Fwp-content%2Fuploads%2F2021%2F06%2FGettyImages-1166728645-1.jpg&tbnid=jOGQ4zszgGumWM&vet=12ahUKEwiyy4yS8bH_AhUPOLkGHVhBBWIQMygAegUIARDhAQ..i&imgrefurl=https%3A%2F%2Fwww.visitbrasil.com%2Fpt%2Fdestino-sao-paulo-sp-2%2F&docid=d_8nc7iOv61WrM&w=2000&h=1499&q=sao%20paulo&ved=2ahUKEwiyy4yS8bH_AhUPOLkGHVhBBWIQMygAegUIARDhAQ",
-        "https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.nationalgeographicbrasil.com%2Ffiles%2Fstyles%2Fimage_3200%2Fpublic%2Fnationalgeographic2755922.jpg%3Fw%3D1900%26h%3D1268&tbnid=u2j9Yfg8nJUjoM&vet=12ahUKEwiyy4yS8bH_AhUPOLkGHVhBBWIQMygKegUIARD4AQ..i&imgrefurl=https%3A%2F%2Fwww.nationalgeographicbrasil.com%2Fcultura%2F2023%2F01%2Faniversario-de-sao-paulo-veja-10-curiosidades-sobre-a-maior-metropole-brasileira&docid=xH7jlcfjFQ70BM&w=1900&h=1268&q=sao%20paulo&ved=2ahUKEwiyy4yS8bH_AhUPOLkGHVhBBWIQMygKegUIARD4AQ",
-        "https://www.google.com/imgres?imgurl=https%3A%2F%2Fblog.123milhas.com%2Fwp-content%2Fuploads%2F2022%2F04%2Fconheca-estado-sao-paulo-conexao123-3.jpg&tbnid=trBkDA88Gw3HjM&vet=12ahUKEwiyy4yS8bH_AhUPOLkGHVhBBWIQMygMegUIARD8AQ..i&imgrefurl=https%3A%2F%2Fblog.123milhas.com%2Fsao-paulo%2F&docid=acH2ODlJG5a8JM&w=1920&h=1077&q=sao%20paulo&ved=2ahUKEwiyy4yS8bH_AhUPOLkGHVhBBWIQMygMegUIARD8AQ",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3EGSX_A-Gi5_1cBpj3B6mpop1_BnladHh-iA761RULfzTTXJN6mAAyy6s4eGn0aAdcQY&usqp=CAU",
+        "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic2755922.jpg?w=1900&h=1268",
+        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcEqoDlImGlnhoyHafbSn5NI6rPKo8aemtEUUj1xtT5z3kjvkn7-MyIBMAOpJjwGmhOE&usqp=CAU",
       ],
       turism: [
         {
