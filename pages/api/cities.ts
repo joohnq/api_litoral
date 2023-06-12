@@ -3,9 +3,9 @@ const citiesData = {
     {
       name: "Rio de Janeiro",
       images: [
-        "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/08/rio-de-janeiro-capa2019-01.jpg",
-        "https://www.melhoresdestinos.com.br/wp-content/uploads/2019/08/rio-de-janeiro-capa2019-01.jpg",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTvP6_l2JPO43C2MZwTHmCJpb43b-fXFYwTXwUArnt8WvUwKzFPcUnYC9bsE7m0wvKedw&usqp=CAU",
+        "https://images.pexels.com/photos/351283/pexels-photo-351283.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/585758/pexels-photo-585758.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/1959065/pexels-photo-1959065.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       ],
       turism: [
         {
@@ -56,9 +56,9 @@ const citiesData = {
     {
       name: "São Paulo",
       images: [
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3EGSX_A-Gi5_1cBpj3B6mpop1_BnladHh-iA761RULfzTTXJN6mAAyy6s4eGn0aAdcQY&usqp=CAU",
-        "https://static.nationalgeographicbrasil.com/files/styles/image_3200/public/nationalgeographic2755922.jpg?w=1900&h=1268",
-        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMcEqoDlImGlnhoyHafbSn5NI6rPKo8aemtEUUj1xtT5z3kjvkn7-MyIBMAOpJjwGmhOE&usqp=CAU",
+        "https://images.pexels.com/photos/97906/pexels-photo-97906.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "https://images.pexels.com/photos/2065850/pexels-photo-2065850.jpeg?auto=compress&cs=tinysrgb&w=1600",
+        "https://images.pexels.com/photos/45917/pexels-photo-45917.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
       ],
       turism: [
         {
