@@ -1,3 +1,6 @@
+import { NextApiRequest, NextApiResponse } from "next";
+import middleware from "./middleware";
+
 const citiesData = {
   cities: [
     {
@@ -340,7 +343,9 @@ const citiesData = {
   ],
 };
 
-export default function handler(req: any, res: any) {
-  res.setHeader("Access-Control-Allow-Origin", "*");
-  res.status(200).json(citiesData);
+export default function handler(req: NextApiRequest, res: NextApiResponse) {
+  // Utilize o middleware de CORS antes de lidar com a requisição
+  middleware(req, res, () => {
+    res.status(200).json(citiesData);
+  });
 }
