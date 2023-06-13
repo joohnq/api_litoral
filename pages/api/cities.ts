@@ -119,7 +119,7 @@ const citiesData = {
               name: "Pelourinho",
               image: "https://example.com/pelourinho.jpg",
               description:
-                "O Pelourinho é um bairro de paralelepípedos, arquitetura colonial e igrejas barrocas.",
+                "O Pelourinho é um bairro histórico conhecido por suas ruas de paralelepípedos, arquitetura colonial e igrejas barrocas.",
             },
             {
               name: "Elevador Lacerda",
@@ -339,6 +339,7 @@ const citiesData = {
     },
   ],
 };
+
 export default function handler(req: any, res: any) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.status(200).json(citiesData);
