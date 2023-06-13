@@ -1,5 +1,3 @@
-import { NextApiRequest, NextApiResponse } from "next";
-
 const citiesData = {
   cities: [
     {
@@ -342,7 +340,7 @@ const citiesData = {
   ],
 };
 
-export default function handler(req: NextApiRequest, res: NextApiResponse) {
+export default function handler(req: any, res: any) {
   res.setHeader("Access-Control-Allow-Origin", "*");
   res.status(200).json(citiesData);
 }
