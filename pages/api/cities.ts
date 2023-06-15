@@ -73,7 +73,7 @@ const citiesData = {
           ],
         },
       ],
-      guia_comercial_list: [
+      guia_comercial: [
         {
           category: "Restaurantes",
           places: [
@@ -130,7 +130,7 @@ const citiesData = {
           ],
         },
       ],
-      guia_comercial_list: [
+      guia_comercial: [
         {
           category: "Restaurantes",
           places: [
@@ -188,7 +188,7 @@ const citiesData = {
           ],
         },
       ],
-      guia_comercial_list: [
+      guia_comercial: [
         {
           category: "Restaurantes",
           places: [
@@ -246,7 +246,7 @@ const citiesData = {
           ],
         },
       ],
-      guia_comercial_list: [
+      guia_comercial: [
         {
           category: "Restaurantes",
           places: [
@@ -304,7 +304,7 @@ const citiesData = {
           ],
         },
       ],
-      guia_comercial_list: [
+      guia_comercial: [
         {
           category: "Restaurantes",
           places: [
