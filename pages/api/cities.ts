@@ -23,29 +23,21 @@ const citiesData = {
       commercialGuide: [
         {
           name: "Churrascaria Carretão",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um restaurante especializado em churrascos, oferecendo uma grande variedade de carnes e acompanhamentos.",
         },
         {
           name: "Café Colombo",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um tradicional café com ambiente elegante, servindo deliciosos quitutes e bebidas quentes.",
         },
         {
           name: "Shopping Rio Sul",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um shopping center moderno, com uma ampla seleção de lojas de marcas nacionais e internacionais.",
         },
         {
           name: "Feira de Artesanato de Copacabana",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Uma feira popular de artesanato, onde é possível encontrar uma variedade de produtos locais e souvenirs.",
         },
@@ -64,6 +56,7 @@ const citiesData = {
           points: [
             {
               name: "Catedral da Sé",
+              image: "https://example.com/catedral_da_se.jpg",
               description:
                 "A Catedral Metropolitana de São Paulo é uma das maiores igrejas góticas do mundo, localizada no centro histórico da cidade.",
             },
@@ -73,29 +66,21 @@ const citiesData = {
       commercialGuide: [
         {
           name: "D.O.M.",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um premiado restaurante com estrelas Michelin, famoso por sua cozinha contemporânea e ingredientes brasileiros.",
         },
         {
           name: "Mercado Municipal de São Paulo",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um mercado tradicional com diversos restaurantes e barracas que oferecem comida brasileira, incluindo o famoso sanduíche de mortadela.",
         },
         {
           name: "Shopping Iguatemi São Paulo",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um dos shoppings mais luxuosos da cidade, com uma seleção exclusiva de lojas de marcas internacionais e nacionais.",
         },
         {
           name: "Rua 25 de Março",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Uma movimentada rua de comércio popular, conhecida por suas diversas lojas de roupas, acessórios e itens variados a preços acessíveis.",
         },
@@ -128,29 +113,21 @@ const citiesData = {
       commercialGuide: [
         {
           name: "Acarajé da Dinha",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um famoso ponto de venda de acarajé, um quitute típico da Bahia, localizado em Salvador.",
         },
         {
           name: "Restaurante Amado",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um restaurante sofisticado à beira-mar, oferecendo uma fusão de culinária baiana e contemporânea.",
         },
         {
           name: "Mercado Modelo",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um mercado tradicional onde é possível encontrar artesanato local, roupas, souvenirs e produtos típicos da região.",
         },
         {
           name: "Shopping Barra",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um shopping center moderno e popular em Salvador, com uma grande variedade de lojas, restaurantes e entretenimento.",
         },
@@ -184,29 +161,21 @@ const citiesData = {
       commercialGuide: [
         {
           name: "Oficina do Sabor",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um restaurante renomado que serve pratos tradicionais da culinária pernambucana, com uma atmosfera aconchegante e decoração rústica.",
         },
         {
           name: "Café São Bento",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um charmoso café que oferece uma variedade de bebidas, lanches e sobremesas, localizado no bairro do Recife Antigo.",
         },
         {
           name: "Shopping Recife",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um dos maiores shoppings da região, com uma ampla seleção de lojas de marcas nacionais e internacionais, além de opções de entretenimento.",
         },
         {
           name: "Rua do Bom Jesus",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Uma rua histórica no bairro do Recife Antigo, conhecida por suas lojas de artesanato, galerias de arte e cafés.",
         },
@@ -240,29 +209,21 @@ const citiesData = {
       commercialGuide: [
         {
           name: "Restaurante Sambass",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um restaurante especializado em frutos do mar, oferecendo pratos deliciosos e uma bela vista para o mar em Porto Seguro.",
         },
         {
           name: "Barramares Restaurante",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um restaurante à beira-mar que serve pratos típicos da culinária baiana, com música ao vivo e um ambiente descontraído.",
         },
         {
           name: "Passarela do Descobrimento",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um local onde é possível encontrar lojas de artesanato, souvenirs, roupas de praia e produtos regionais em Porto Seguro.",
         },
         {
           name: "Praça do Relógio",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Uma praça com diversas barracas de artesanato e lembranças, onde é possível encontrar produtos locais e regionais.",
         },
@@ -276,44 +237,41 @@ const citiesData = {
       ],
       tourism: [
         {
-          name: "Teatro Amazonas",
-          image: "https://example.com/teatro_amazonas.jpg",
-          description:
-            "O Teatro Amazonas é um icônico teatro de ópera localizado no coração de Manaus, conhecido por sua arquitetura neoclássica e sua cúpula coberta de azulejos.",
-        },
-        {
-          name: "Encontro das Águas",
-          image: "https://example.com/encontro_aguas.jpg",
-          description:
-            "O Encontro das Águas é um fenômeno natural onde os rios Negro e Solimões se encontram, formando uma impressionante divisão de águas com diferentes cores.",
+          category: "Monumentos",
+          points: [
+            {
+              name: "Teatro Amazonas",
+              image: "https://example.com/teatro_amazonas.jpg",
+              description:
+                "O Teatro Amazonas é um icônico teatro de ópera localizado no coração de Manaus, conhecido por sua arquitetura neoclássica e sua cúpula coberta de azulejos.",
+            },
+            {
+              name: "Encontro das Águas",
+              image: "https://example.com/encontro_aguas.jpg",
+              description:
+                "O Encontro das Águas é um fenômeno natural onde os rios Negro e Solimões se encontram, formando uma impressionante divisão de águas com diferentes cores.",
+            },
+          ],
         },
       ],
       commercialGuide: [
         {
           name: "Banzeiro",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um restaurante especializado em culinária amazônica, oferecendo pratos típicos da região, como o tacacá e o pirarucu.",
         },
         {
           name: "Tacacá da Gisela",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um ponto de venda de tacacá, uma sopa quente de origem indígena, servido com camarão, jambu e tucupi, em Manaus.",
         },
         {
           name: "Mercado Municipal Adolpho Lisboa",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um mercado tradicional onde é possível encontrar produtos locais, como frutas, peixes, ervas medicinais, artesanato e lembranças.",
         },
         {
           name: "Shopping Manauara",
-          image:
-            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
           description:
             "Um dos principais shoppings de Manaus, com uma variedade de lojas, restaurantes e opções de entretenimento.",
         },
