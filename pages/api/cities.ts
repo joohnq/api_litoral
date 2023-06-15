@@ -20,36 +20,34 @@ const citiesData = {
           ],
         },
       ],
-      guiaComercial: [
+      commercialGuide: [
         {
-          category: "Restaurantes",
-          places: [
-            {
-              name: "Churrascaria Carretão",
-              description:
-                "Um restaurante especializado em churrascos, oferecendo uma grande variedade de carnes e acompanhamentos.",
-            },
-            {
-              name: "Café Colombo",
-              description:
-                "Um tradicional café com ambiente elegante, servindo deliciosos quitutes e bebidas quentes.",
-            },
-          ],
+          name: "Churrascaria Carretão",
+          image:
+            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          description:
+            "Um restaurante especializado em churrascos, oferecendo uma grande variedade de carnes e acompanhamentos.",
         },
         {
-          category: "Lojas",
-          places: [
-            {
-              name: "Shopping Rio Sul",
-              description:
-                "Um shopping center moderno, com uma ampla seleção de lojas de marcas nacionais e internacionais.",
-            },
-            {
-              name: "Feira de Artesanato de Copacabana",
-              description:
-                "Uma feira popular de artesanato, onde é possível encontrar uma variedade de produtos locais e souvenirs.",
-            },
-          ],
+          name: "Café Colombo",
+          image:
+            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          description:
+            "Um tradicional café com ambiente elegante, servindo deliciosos quitutes e bebidas quentes.",
+        },
+        {
+          name: "Shopping Rio Sul",
+          image:
+            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          description:
+            "Um shopping center moderno, com uma ampla seleção de lojas de marcas nacionais e internacionais.",
+        },
+        {
+          name: "Feira de Artesanato de Copacabana",
+          image:
+            "https://images.pexels.com/photos/16211537/pexels-photo-16211537/free-photo-of-escolha-opcao-comida-alimento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          description:
+            "Uma feira popular de artesanato, onde é possível encontrar uma variedade de produtos locais e souvenirs.",
         },
       ],
     },
