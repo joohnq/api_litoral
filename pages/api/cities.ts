@@ -25,21 +25,85 @@ const citiesData = {
           name: "Churrascaria Carretão",
           description:
             "Um restaurante especializado em churrascos, oferecendo uma grande variedade de carnes e acompanhamentos.",
+          adress: "Endereço do local - Rio de Janeiro 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Café Colombo",
           description:
             "Um tradicional café com ambiente elegante, servindo deliciosos quitutes e bebidas quentes.",
+          adress: "Endereço do local - Rio de Janeiro 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Shopping Rio Sul",
           description:
             "Um shopping center moderno, com uma ampla seleção de lojas de marcas nacionais e internacionais.",
+          adress: "Endereço do local - Rio de Janeiro 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Feira de Artesanato de Copacabana",
           description:
             "Uma feira popular de artesanato, onde é possível encontrar uma variedade de produtos locais e souvenirs.",
+          adress: "Endereço do local - Rio de Janeiro 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
       ],
       events: [
@@ -90,21 +154,85 @@ const citiesData = {
           name: "D.O.M.",
           description:
             "Um premiado restaurante com estrelas Michelin, famoso por sua cozinha contemporânea e ingredientes brasileiros.",
+          adress: "Endereço do local - São Paulo 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Mercado Municipal de São Paulo",
           description:
             "Um mercado tradicional com diversos restaurantes e barracas que oferecem comida brasileira, incluindo o famoso sanduíche de mortadela.",
+          adress: "Endereço do local - São Paulo 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Shopping Iguatemi São Paulo",
           description:
             "Um dos shoppings mais luxuosos da cidade, com uma seleção exclusiva de lojas de marcas internacionais e nacionais.",
+          adress: "Endereço do local - São Paulo 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Rua 25 de Março",
           description:
             "Uma movimentada rua de comércio popular, conhecida por suas diversas lojas de roupas, acessórios e itens variados a preços acessíveis.",
+          adress: "Endereço do local - São Paulo 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
       ],
       events: [
@@ -159,21 +287,85 @@ const citiesData = {
           name: "Acarajé da Dinha",
           description:
             "Um famoso ponto de venda de acarajé, um quitute típico da Bahia, localizado em Salvador.",
+          adress: "Endereço do local - Salvador 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Restaurante Amado",
           description:
             "Um restaurante sofisticado à beira-mar, oferecendo uma fusão de culinária baiana e contemporânea.",
+          adress: "Endereço do local - Salvador 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Mercado Modelo",
           description:
             "Um mercado tradicional onde é possível encontrar artesanato local, roupas, souvenirs e produtos típicos da região.",
+          adress: "Endereço do local - Salvador 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Shopping Barra",
           description:
             "Um shopping center moderno e popular em Salvador, com uma grande variedade de lojas, restaurantes e entretenimento.",
+          adress: "Endereço do local - Salvador 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
       ],
       events: [
@@ -228,21 +420,85 @@ const citiesData = {
           name: "Oficina do Sabor",
           description:
             "Um restaurante renomado que serve pratos tradicionais da culinária pernambucana, com uma atmosfera aconchegante e decoração rústica.",
+          adress: "Endereço do local - Recife 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Café São Bento",
           description:
             "Um charmoso café que oferece uma variedade de bebidas, lanches e sobremesas, localizado no bairro do Recife Antigo.",
+          adress: "Endereço do local - Recife 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Shopping Recife",
           description:
             "Um dos maiores shoppings da região, com uma ampla seleção de lojas de marcas nacionais e internacionais, além de opções de entretenimento.",
+          adress: "Endereço do local - Recife 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Rua do Bom Jesus",
           description:
             "Uma rua histórica no bairro do Recife Antigo, conhecida por suas lojas de artesanato, galerias de arte e cafés.",
+          adress: "Endereço do local - Recife 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
       ],
       events: [
@@ -297,21 +553,85 @@ const citiesData = {
           name: "Restaurante Sambass",
           description:
             "Um restaurante especializado em frutos do mar, oferecendo pratos deliciosos e uma bela vista para o mar em Porto Seguro.",
+          adress: "Endereço do local - Porto Seguro 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Barramares Restaurante",
           description:
             "Um restaurante à beira-mar que serve pratos típicos da culinária baiana, com música ao vivo e um ambiente descontraído.",
+          adress: "Endereço do local - Porto Seguro 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Passarela do Descobrimento",
           description:
             "Um local onde é possível encontrar lojas de artesanato, souvenirs, roupas de praia e produtos regionais em Porto Seguro.",
+          adress: "Endereço do local - Porto Seguro 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Praça do Relógio",
           description:
             "Uma praça com diversas barracas de artesanato e lembranças, onde é possível encontrar produtos locais e regionais.",
+          adress: "Endereço do local - Porto Seguro 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
       ],
       events: [
@@ -366,43 +686,85 @@ const citiesData = {
           name: "Banzeiro",
           description:
             "Um restaurante especializado em culinária amazônica, oferecendo pratos típicos da região, como o tacacá e o pirarucu.",
+          adress: "Endereço do local - Amazonas 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Tacacá da Gisela",
           description:
             "Um ponto de venda de tacacá, uma sopa quente de origem indígena, servido com camarão, jambu e tucupi, em Manaus.",
+          adress: "Endereço do local - Amazonas 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Mercado Municipal Adolpho Lisboa",
           description:
             "Um mercado tradicional onde é possível encontrar produtos locais, como frutas, peixes, ervas medicinais, artesanato e lembranças.",
+          adress: "Endereço do local - Amazonas 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
         {
           name: "Shopping Manauara",
           description:
             "Um dos principais shoppings de Manaus, com uma variedade de lojas, restaurantes e opções de entretenimento.",
-        },
-      ],
-      events: [
-        {
-          name: "Event 1 - Amazonas",
-          description:
-            "Um restaurante especializado em culinária amazônica, oferecendo pratos típicos da região, como o tacacá e o pirarucu.",
-        },
-        {
-          name: "Event 2 - Amazonas",
-          description:
-            "Um ponto de venda de tacacá, uma sopa quente de origem indígena, servido com camarão, jambu e tucupi, em Manaus.",
-        },
-        {
-          name: "Event 3 - Amazonas",
-          description:
-            "Um mercado tradicional onde é possível encontrar produtos locais, como frutas, peixes, ervas medicinais, artesanato e lembranças.",
-        },
-        {
-          name: "Event 4 - Amazonas",
-          description:
-            "Um dos principais shoppings de Manaus, com uma variedade de lojas, restaurantes e opções de entretenimento.",
+          adress: "Endereço do local - Amazonas 111",
+          images: [
+            "https://images.pexels.com/photos/17206891/pexels-photo-17206891/free-photo-of-floracao-florescencia-cor-pigmento.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+            "https://images.pexels.com/photos/12256804/pexels-photo-12256804.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          ],
+          tel: ["99999999999", "99999999999"],
+          socialMedia: [
+            { facebook: "https://pt-br.facebook.com/" },
+            { twitter: "https://www.twitter.com" },
+            { youtube: "https://www.youtube.com" },
+            { pintrest: "https://www.pintrest.com" },
+            { instagram: "https://www.intagram.com" },
+          ],
+          workHour: ["08:00 - 12:00", "13:00 - 18:00"],
+          about: "About point",
+          locationMap: "",
         },
       ],
     },
